@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mydotnetapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-28T10:51:21.0851836+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f988c2869617a03dc202d8a6c23ee2737dbf7c497a5488abfe017adb9d4e8092
+    name: mydotnetapp
+    type: application
+    urls:
+    - https://github.com/rakeshragipani/helm/tree/master/mydotnetapp/mydotnetapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-28T10:51:21.0840985+05:30"
